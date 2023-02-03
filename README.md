@@ -1,0 +1,1 @@
+abp.BookStore.Core6
